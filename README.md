@@ -1,4 +1,4 @@
-![victor-marquina Banner]([https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png](https://github.com/victor-marquina/victor-marquina/blob/main/Img/a-vibrant-2d-animated-illustration-of-a-_uRxnwkarR3u5pw8y-VSTNA_BmmRxaVxTbOriNOYdzsUVg.png))
+![victor-marquina Banner]([https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png])
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Victor Marquina</h2>
 
