@@ -6,39 +6,20 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔍 I’m excited to kickstart my career as a software engineer.
-
-🌱 Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.
-
-💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **MongoDB**, **Express**, **NodeJS**, **C**, **C++**, **PHP**, **MySQL**, and everything related to web development.
-
-⚡ I’m an **expert in full-stack web development**, with extensive experience in both **frontend** and **backend**. I have a passion for building robust and scalable applications using modern technologies. I strive to create clean, maintainable code and deliver high-quality results.
-
-### Frontend Development:
-As a frontend developer, I specialize in crafting visually appealing and responsive user interfaces. I ensure that every design is intuitive, smooth, and optimized for performance.
-
+🔍 &nbsp;I’m excited to kickstart my career as a software engineer. \
+🌱 &nbsp;Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.\
+⚡ &nbsp;I’m an **expert in full-stack web development**, with extensive experience in both **frontend** and **backend**. I have a passion for building robust and scalable applications using modern technologies. I strive to create clean, maintainable code and deliver high-quality results.\
+💬&nbsp; Feel free to ask me about:
 | **Frontend Development** | **Backend Development** |
 |--------------------------|-------------------------|
 | As a frontend developer, I specialize in crafting visually appealing and responsive user interfaces. I ensure that every design is intuitive, smooth, and optimized for performance. | On the backend side, I am skilled at creating RESTful APIs, managing databases, and ensuring security and scalability in server-side applications. |
 | **Technologies I Use:** | **Technologies I Use:** |
-| - **HTML5**: Building semantic and accessible web pages. | - **Node.js**: Building efficient and scalable server-side applications. |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; | - **Node.js**: Building efficient and scalable server-side applications. |
 | - **CSS3**: Styling pages with flexibility using **Flexbox** and **Grid**. | - **Express.js**: Simplifying backend development with this minimal web framework. |
 | - **JavaScript**: Interactive features with native JS and frameworks like **React**. | - **MongoDB**: NoSQL database for flexible, high-performance data storage. |
 | - **Vue.js**: Leveraging Vue for modern frontend development. | - **MySQL**: Relational database management for structured data. |
 | - **Sass/SCSS**: Enhancing CSS workflow with preprocessor capabilities. | - **PHP**: Developing dynamic and interactive web applications. |
 | - **Bootstrap**: Quickly developing responsive layouts and components. | - **C & C++**: Strong foundation in systems programming and algorithms. |
-
-
-
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -52,6 +33,7 @@ As a frontend developer, I specialize in crafting visually appealing and respons
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
