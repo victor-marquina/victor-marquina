@@ -6,6 +6,31 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+🔍 I’m excited to kickstart my career as a software engineer.
+
+🌱 Currently, I'm working on multiple projects to refine my skills and gain hands-on experience.
+
+💬 Feel free to ask me about **HTML**, **CSS**, **JavaScript**, **MongoDB**, **Express**, **NodeJS**, **C**, **C++**, **PHP**, **MySQL**, and everything related to web development.
+
+⚡ I’m an **expert in full-stack web development**, with extensive experience in both **frontend** and **backend**. I have a passion for building robust and scalable applications using modern technologies. I strive to create clean, maintainable code and deliver high-quality results.
+
+### Frontend Development:
+As a frontend developer, I specialize in crafting visually appealing and responsive user interfaces. I ensure that every design is intuitive, smooth, and optimized for performance.
+
+| **Frontend Development** | **Backend Development** |
+|--------------------------|-------------------------|
+| As a frontend developer, I specialize in crafting visually appealing and responsive user interfaces. I ensure that every design is intuitive, smooth, and optimized for performance. | On the backend side, I am skilled at creating RESTful APIs, managing databases, and ensuring security and scalability in server-side applications. |
+| **Technologies I Use:** | **Technologies I Use:** |
+| - **HTML5**: Building semantic and accessible web pages. | - **Node.js**: Building efficient and scalable server-side applications. |
+| - **CSS3**: Styling pages with flexibility using **Flexbox** and **Grid**. | - **Express.js**: Simplifying backend development with this minimal web framework. |
+| - **JavaScript**: Interactive features with native JS and frameworks like **React**. | - **MongoDB**: NoSQL database for flexible, high-performance data storage. |
+| - **Vue.js**: Leveraging Vue for modern frontend development. | - **MySQL**: Relational database management for structured data. |
+| - **Sass/SCSS**: Enhancing CSS workflow with preprocessor capabilities. | - **PHP**: Developing dynamic and interactive web applications. |
+| - **Bootstrap**: Quickly developing responsive layouts and components. | - **C & C++**: Strong foundation in systems programming and algorithms. |
+
+
+
+
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
